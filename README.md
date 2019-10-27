@@ -1,6 +1,6 @@
 #  **Bonus Project for Computer Architecture Course** 
 
-The project involved two parts
+The project involved two parts:
 
 ### Part 1 - Memory Organization Exercise
 
